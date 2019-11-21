@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: artifacts:opencontrol:unspecified@jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/opencontrol/build/.transforms/dd10d0e91ad5d033ff5c08e637b10531/opencontrol-v1.0.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/opencontrol/build/.transforms/dd10d0e91ad5d033ff5c08e637b10531/opencontrol-v1.0.0/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

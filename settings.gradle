@@ -1,0 +1,2 @@
+include ':app', ':opencontrol'
+rootProject.name='opencontrol-test'
