@@ -5,7 +5,7 @@ Current version: v1.0.0
 ## Benefits:
 - It is the easiest and fastest way to integrate a device collect information.
 ## Installation
-1. Download de latest SDK released version.
+1. Download de latest SDK released version (https://github.com/opencontrol-develop/opencontrol-mobile-android-example/releases/download/1.0.0/SDK-v1.0.0.zip).
 2. You must have installed the Android SDK with API Level 27-29.
 3. Add the openpaycontrol library (opencontrol-v1.0.0.aar) to your project.
 ## Configuration
